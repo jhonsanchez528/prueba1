@@ -8,7 +8,8 @@ import reportWebVitals from './reportWebVitals';
 function tick() {
   const element = (
     <div>
-      <h1>Hello, world!</h1>
+      <h1>Hello!</h1>
+      <button>Este boton</button>
       <h2>It is {new Date().toLocaleDateString()}, {new Date().toLocaleTimeString()}.</h2>
     </div>
   );
